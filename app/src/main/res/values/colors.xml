@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="AzulOscuro">#04395e</color>
+    <color name="AzulClaro">#4187b4</color>
+    <color name="VerdeOscuro">#869643</color>
+    <color name="VerdeClaro">#c6e156</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "569830631935",
+    "firebase_url": "https://gaelico-galego.firebaseio.com",
+    "project_id": "gaelico-galego",
+    "storage_bucket": "gaelico-galego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569830631935:android:198fe96cc7404545",
+        "android_client_info": {
+          "package_name": "com.example.tone.asogal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569830631935-34k0r9kj8u15193k2a07kqg0t0h6jrgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tone.asogal",
+            "certificate_hash": "3e666c17fc297d007ba6498b4bcfd520ebe5327d"
+          }
+        },
+        {
+          "client_id": "569830631935-frs14ohg9utkn7l6afq9dqhhdtlddch1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4t3T8OY3PA2Qqm9Hux4zlXM4zQYaExNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569830631935-frs14ohg9utkn7l6afq9dqhhdtlddch1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
